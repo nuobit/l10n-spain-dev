@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # © 2009 Alejandro Sanchez <alejandro@asr-oss.com>
 # © 2015 Ismael Calvo <ismael.calvo@factorlibre.com>
 # © 2015 Tecon
@@ -7,7 +8,7 @@
 
 {
     "name": "Creación de Factura-e",
-    "version": "10.0.1.0.0",
+    "version": "10.0.1.0.0.99.dev9",
     "author": "ASR-OSS, "
               "FactorLibre, "
               "Tecon, "
